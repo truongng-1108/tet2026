@@ -68,6 +68,9 @@ function handleClickLixi() {
     '❤️ Năm mới 2026, chúc bạn đón nhận thật nhiều yêu thương, hạnh phúc ngập tràn và sức khỏe mãi vững bền! 🌈',
     '🌟 Chúc bạn một năm 2026 thật rực rỡ, mọi dự định đều thành công, và những khoảnh khắc tuyệt vời luôn bên bạn! 🎊',
     '🎁 Chúc bạn năm mới 2026 phát tài phát lộc, mọi công việc đều thuận lợi, gia đình hạnh phúc và vui vẻ! 🏡',
+    'Bạn nhận được lì xì 9.999 VNĐ 💵',
+    'Bạn nhận được lì xì 10.000 VNĐ 💵',
+    'Bạn nhận được lì xì 2.026 VNĐ 💵',
   ];
 
   // Mảng chứa message cho bao lì xì
