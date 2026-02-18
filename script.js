@@ -76,8 +76,8 @@ function handleClickLixi() {
   // Mảng chứa message cho bao lì xì
   const lixiMessages = [
     'Lì xì mình nhaaa 💵',
-    'Lì xì mình nhaaa 💶',
-    'Lì xì mình nhaaa 💷',
+    // 'Lì xì mình nhaaa 💶',
+    // 'Lì xì mình nhaaa 💷',
     'Lì xì mình nhaaa 💸',
   ];
 
